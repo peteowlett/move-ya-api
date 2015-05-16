@@ -1,0 +1,5 @@
+.domino/
+.idea/
+domino.log
+venv/
+data/

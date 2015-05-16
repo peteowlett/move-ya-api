@@ -1,0 +1,6 @@
+### SETUP PROCESS STARTED ###
+### SETUP PROCESS FINISHED ###
+Average daily steps: 7166.10364158
+Average daily distance: 5256.64517456
+Average daily active minutes: 154.357142857
+Average minutes of inactivity per day: 496.785714286

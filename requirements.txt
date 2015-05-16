@@ -1,0 +1,11 @@
+dateutils
+python-dateutil
+numpy
+six
+SQLAlchemy==0.9.7
+psycopg2==2.6
+xmltodict
+pytz
+numexpr
+bottleneck
+pandas==0.16.1
