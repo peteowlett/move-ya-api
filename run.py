@@ -148,7 +148,7 @@ def main(doc=None):
         transformed_data = parse_document(doc)
 
         # Load the doc into the database
-        #load_document(session, transformed_data)
+        load_document(session, transformed_data)
 
         # Retrieve ALL the results in the DB
         retrieved_data = retrieve_documents(session)
